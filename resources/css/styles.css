@@ -30,5 +30,15 @@ h3 {
 }
 
 #bottomNav {
+    background-color: dimgray;
+    color: white;
+    font-size: 11px;
+    padding: 2px 3px;
+    text-align: left;
+}
 
+#bottomNav a {
+  color: white;
+  font-size: 18px;
+  padding: 2px;
 }
