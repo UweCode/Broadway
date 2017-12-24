@@ -4,24 +4,29 @@ body {
 }
 
 h1 {
+  color: white;
   font-size: 70px;
-  font-weight:  bold;
 }
 
-.imageBackGround, .imageBackGround a {
-  color: white;
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.imageBackGround {
+  background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
 .topLinks {
+  color: white;
   font-size: 18px;
 }
 
-#topNav {
-  background-image: url("../../resources/images/the-flatiron-building.png")
-}
-
 #designedInNY {
-
+  color: white;
 }
 
 #bottomNav {
